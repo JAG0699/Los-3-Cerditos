@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+}
+
+.jugar:hover{
+    background: #AC2E61;
+
+}
+
+.fas{
+    color: #AC2E61;
+}
+
+.nombres{
+    text-align: center;
+}
+
+.inicio{
+    background-image: url(images/Videogame_Mesa de trabajo 1.png);
+}
+
+.botonjugar{
+    display: flex;
+    position: absolute;
+    left: 750px;
+    top: 300px;
+}
+.cajahistoria{
+    display: flex;
+    justify-content: center;
+}
+
+.botoniniciar{
+    display: flex;
+    position: absolute;
+    left: 1200px;
+    top: 700px;
+}
+
+
+.botonjugarderrota{
+    display: flex;
+    position: absolute;
+    left: 1000px;
+}
+
+.botonvictoria1 {
+    display: flex;
+    position: absolute;
+    left: 1500px;
+}
+
+
+
+
+
